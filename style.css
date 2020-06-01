@@ -1,0 +1,22 @@
+body {
+    position: relative;
+    background-color: black;
+    }
+    
+    /* #wrapper{ */
+    /* position: fixed; */
+    /* max-width: 960px; */
+    /* top: 30px; */
+    /* left: 10px; */
+    /*margin: 100px 20px 0 50%;*/
+    /*float:right;*/
+    /* } */
+    
+
+
+    #content
+    {
+       margin-left:auto;
+       margin-right:auto;
+       width:1024px;
+    }
